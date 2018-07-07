@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:1-25:12
+MERGED from [com.android.support:design:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\2a8e4acaf088e11de80233543de377c1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\3f82e7dfc677513fc9238ab57e5326b8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\09688cd61a09bc2f8081dd02d41ae2c1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\40e4dd64d99575578602c53591342de8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\6b330b95c74facb40733141cdfdfa1ac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\74685c7c3dccae56161fcc82758c92a2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\2a5be66c4b927b15fab8362ce77eba9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\ae1f5969f13b9bef382f1119565f77a0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0cf6d8e122d6acba7d0a65ea926e7d71\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\b37192bf4393f844effc55d0a945fdd7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\3640adcabeb69198ae1e8821f9749ea1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\9e2b21b32b5ce4a843b8dca7630b7b47\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:1-25:12
+	package
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:1-25:12
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:1-25:12
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\2a8e4acaf088e11de80233543de377c1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\2a8e4acaf088e11de80233543de377c1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\3f82e7dfc677513fc9238ab57e5326b8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\3f82e7dfc677513fc9238ab57e5326b8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\09688cd61a09bc2f8081dd02d41ae2c1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\09688cd61a09bc2f8081dd02d41ae2c1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\40e4dd64d99575578602c53591342de8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\40e4dd64d99575578602c53591342de8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\6b330b95c74facb40733141cdfdfa1ac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\6b330b95c74facb40733141cdfdfa1ac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\74685c7c3dccae56161fcc82758c92a2\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\74685c7c3dccae56161fcc82758c92a2\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\ae1f5969f13b9bef382f1119565f77a0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\ae1f5969f13b9bef382f1119565f77a0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0cf6d8e122d6acba7d0a65ea926e7d71\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0cf6d8e122d6acba7d0a65ea926e7d71\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\b37192bf4393f844effc55d0a945fdd7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\b37192bf4393f844effc55d0a945fdd7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\3640adcabeb69198ae1e8821f9749ea1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\3640adcabeb69198ae1e8821f9749ea1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\9e2b21b32b5ce4a843b8dca7630b7b47\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\9e2b21b32b5ce4a843b8dca7630b7b47\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.droidcafe.MainActivity
+ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.android.droidcafe.OrderActivity
+ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml:22:19-48
+uses-sdk
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\2a8e4acaf088e11de80233543de377c1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\2a8e4acaf088e11de80233543de377c1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\3f82e7dfc677513fc9238ab57e5326b8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\3f82e7dfc677513fc9238ab57e5326b8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\09688cd61a09bc2f8081dd02d41ae2c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\09688cd61a09bc2f8081dd02d41ae2c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\40e4dd64d99575578602c53591342de8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\40e4dd64d99575578602c53591342de8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\6b330b95c74facb40733141cdfdfa1ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\6b330b95c74facb40733141cdfdfa1ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\74685c7c3dccae56161fcc82758c92a2\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\74685c7c3dccae56161fcc82758c92a2\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\2a5be66c4b927b15fab8362ce77eba9d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\2a5be66c4b927b15fab8362ce77eba9d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\ae1f5969f13b9bef382f1119565f77a0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\ae1f5969f13b9bef382f1119565f77a0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0cf6d8e122d6acba7d0a65ea926e7d71\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0cf6d8e122d6acba7d0a65ea926e7d71\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\b37192bf4393f844effc55d0a945fdd7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\b37192bf4393f844effc55d0a945fdd7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\3640adcabeb69198ae1e8821f9749ea1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\3640adcabeb69198ae1e8821f9749ea1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\9e2b21b32b5ce4a843b8dca7630b7b47\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\9e2b21b32b5ce4a843b8dca7630b7b47\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\thejcode24\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\2a8e4acaf088e11de80233543de377c1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thejcode24\Desktop\DroidCafe\app\src\main\AndroidManifest.xml
