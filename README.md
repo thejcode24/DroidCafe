@@ -1,4 +1,4 @@
-DroidCafe Part 1 - Solution Code
+DroidCafe 
 ================================
 
 App that demonstrates radio buttons and images used as buttons.
